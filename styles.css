@@ -10,11 +10,19 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 color: blue;
 }
 footer {
-color: tomato;
+
+color: grey;
 }
+
+h2
+{color: magenta;}
+
+h3
+{color: maroon;}
 
 h4
 {color: darkorchid;}
 
-li
-{color: rebeccapurple;}
+li 
+{color: green;}
+
